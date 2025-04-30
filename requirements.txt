@@ -1,0 +1,7 @@
+pywin32==308
+scipy==1.15.2
+setuptools
+google-api-python-client
+moviepy==1.0.3
+cloudpathlib
+google-generativeai==0.8.4
